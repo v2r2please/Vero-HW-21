@@ -11,9 +11,10 @@ header {
 }
 .hero {
     background-image: url(../images/wingchunmichele.jpg);
-    height:50vh;
+    height:150vh;
     width:100%;
     background-size:cover;
+    align-items: center;
 }
 
 .cards{
