@@ -1,0 +1,21 @@
+
+body {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header {
+    background-color: brown;
+    display:flex;
+    padding:15px;
+    justify-content: space-between;
+
+}
+.hero {
+    background-image: url(../images/wingchunmichele.jpg);
+    height:50vh;
+    width:100%;
+    background-size:cover;
+}
+
+.cards{
+    background-color: brown;
+}
